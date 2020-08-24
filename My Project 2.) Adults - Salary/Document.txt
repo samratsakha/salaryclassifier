@@ -1,0 +1,10 @@
+Performance of varoius Algorithms
+
+KNEighborsClassifier()
+0.347364153356179
+
+LogisticRegression()
+0.4173928970009318
+
+RandomForestClassifier()
+0.006196019963707621
